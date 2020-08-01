@@ -1,4 +1,4 @@
 learn git
 second commit
-new string 2
-new string 3
+
+old string
