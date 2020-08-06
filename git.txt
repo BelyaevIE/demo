@@ -2,3 +2,5 @@ learn git
 second commit
 new string
 old string
+
+for tag only
